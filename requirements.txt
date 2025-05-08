@@ -1,6 +1,6 @@
 streamlit
 openai
 google-generativeai
-streamlit-audiorecorder
+audio_recorder_streamlit
 pydub
 numpy
